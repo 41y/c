@@ -1,1 +1,0 @@
-drawing line by GTK
